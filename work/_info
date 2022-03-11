@@ -1,0 +1,128 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\dougl\Documents\Cursos\EC - Unipampa\Sistemas digitais\NeandidaIndra
+Easp2
+Z0 w1647017158
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 dC:\Users\dougl\Documents\Cursos\EC - Unipampa\Sistemas digitais\ASP2
+Z7 8C:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/asp2.vhd
+Z8 FC:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/asp2.vhd
+l0
+L6
+ViY1:zena[WcBh?J0>7Cag2
+Z9 OV;C;10.1d;51
+32
+Z10 !s108 1647020137.492000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/asp2.vhd|
+Z12 !s107 C:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/asp2.vhd|
+Z13 o-work work -2002 -explicit -O0
+Z14 tExplicit 1
+!s100 zO[jWk6caFzh4L4?mghHb3
+!i10b 1
+Aportras
+R1
+R2
+R3
+R4
+R5
+DEx4 work 4 asp2 0 22 iY1:zena[WcBh?J0>7Cag2
+l25
+L20
+VL?4[Filo8<HEiIPG1GVNN3
+R9
+32
+R10
+R11
+R12
+R13
+R14
+!s100 =38mXibmPoLW1jBXNM4N[1
+!i10b 1
+Etb_asp2
+Z15 w1647020115
+R1
+R2
+R3
+R4
+R5
+R6
+Z16 8C:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/tb_asp2.vhd
+Z17 FC:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/tb_asp2.vhd
+l0
+L6
+VU;KkTMGjfMk4Df;iH5FH30
+R9
+32
+Z18 !s108 1647020137.777000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/tb_asp2.vhd|
+Z20 !s107 C:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/tb_asp2.vhd|
+R13
+R14
+!s100 T]o=o3VGO@Of<8zOd]IAF3
+!i10b 1
+Aportras
+R1
+R2
+R3
+R4
+R5
+DEx4 work 7 tb_asp2 0 22 U;KkTMGjfMk4Df;iH5FH30
+l40
+L9
+V2WPKn4g5^:<k:@?UWdBaT2
+R9
+32
+R18
+R19
+R20
+R13
+R14
+!s100 XWPJj_c^1f64FO9lI>Oo00
+!i10b 1
+Ev_lut
+Z21 w1647019788
+R1
+R2
+R3
+R4
+R5
+R6
+Z22 8C:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/v_lut.vhd
+Z23 FC:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/v_lut.vhd
+l0
+L6
+Vi8el6:BQJIz=MONK7BHnV2
+!s100 Bz1eBDjOhme8TgN9C1d1Z2
+R9
+32
+!i10b 1
+Z24 !s108 1647020138.169000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/v_lut.vhd|
+Z26 !s107 C:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/v_lut.vhd|
+R13
+R14
+Aportras
+R1
+R2
+R3
+R4
+R5
+Z27 DEx4 work 5 v_lut 0 22 i8el6:BQJIz=MONK7BHnV2
+l28
+L20
+V?EKhJRZPEE3GoITCTT2^11
+!s100 Iz><<UfVYiRF;lAS8]DAz0
+R9
+32
+!i10b 1
+R24
+R25
+R26
+R13
+R14
