@@ -1,15 +1,4 @@
-{C:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/v_lut.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/v_lut.vhd}
-Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Loading package std_logic_arith
--- Loading package STD_LOGIC_UNSIGNED
--- Loading package NUMERIC_STD
--- Compiling entity v_lut
--- Compiling architecture portras of v_lut
-
-} {} {}} {C:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/asp2.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/asp2.vhd}
+{C:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/asp2.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/asp2.vhd}
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -19,6 +8,17 @@ Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package NUMERIC_STD
 -- Compiling entity asp2
 -- Compiling architecture portras of asp2
+
+} {} {}} {C:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/v_lut.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/v_lut.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity v_lut
+-- Compiling architecture portras of v_lut
 
 } {} {}} {C:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/tb_asp2.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/tb_asp2.vhd}
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
