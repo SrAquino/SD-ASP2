@@ -1,6 +1,6 @@
 Analysis & Synthesis report for asp2
-Fri Mar 11 14:43:03 2022
-Quartus II 32-bit Version 13.0.0 Build 156 04/24/2013 SJ Web Edition
+Mon Mar 21 00:08:44 2022
+Quartus II 64-Bit Version 13.0.0 Build 156 04/24/2013 SJ Web Edition
 
 
 ---------------------
@@ -43,8 +43,8 @@ applicable agreement for further details.
 +---------------------------------------------------------------------------------+
 ; Analysis & Synthesis Summary                                                    ;
 +------------------------------------+--------------------------------------------+
-; Analysis & Synthesis Status        ; Successful - Fri Mar 11 14:43:03 2022      ;
-; Quartus II 32-bit Version          ; 13.0.0 Build 156 04/24/2013 SJ Web Edition ;
+; Analysis & Synthesis Status        ; Successful - Mon Mar 21 00:08:44 2022      ;
+; Quartus II 64-Bit Version          ; 13.0.0 Build 156 04/24/2013 SJ Web Edition ;
 ; Revision Name                      ; asp2                                       ;
 ; Top-level Entity Name              ; asp2                                       ;
 ; Family                             ; Cyclone III                                ;
@@ -297,7 +297,7 @@ Note: In order to hide this table in the UI and the text report file, please set
 +----------------+--------------+
 ; Partition Name ; Elapsed Time ;
 +----------------+--------------+
-; Top            ; 00:00:03     ;
+; Top            ; 00:00:07     ;
 +----------------+--------------+
 
 
@@ -305,9 +305,9 @@ Note: In order to hide this table in the UI and the text report file, please set
 ; Analysis & Synthesis Messages ;
 +-------------------------------+
 Info: *******************************************************************
-Info: Running Quartus II 32-bit Analysis & Synthesis
+Info: Running Quartus II 64-Bit Analysis & Synthesis
     Info: Version 13.0.0 Build 156 04/24/2013 SJ Web Edition
-    Info: Processing started: Fri Mar 11 14:42:44 2022
+    Info: Processing started: Mon Mar 21 00:08:21 2022
 Info: Command: quartus_map --read_settings_files=on --write_settings_files=off asp2 -c asp2
 Warning (20028): Parallel compilation is not licensed and has been disabled
 Info (12021): Found 2 design units, including 1 entities, in source file /users/dougl/documents/cursos/ec - unipampa/sistemas digitais/asp2/asp2.vhd
@@ -336,10 +336,10 @@ Info (21057): Implemented 24 device resources after synthesis - the final resour
     Info (21058): Implemented 10 input pins
     Info (21059): Implemented 2 output pins
     Info (21061): Implemented 12 logic cells
-Info: Quartus II 32-bit Analysis & Synthesis was successful. 0 errors, 1 warning
-    Info: Peak virtual memory: 397 megabytes
-    Info: Processing ended: Fri Mar 11 14:43:03 2022
-    Info: Elapsed time: 00:00:19
+Info: Quartus II 64-Bit Analysis & Synthesis was successful. 0 errors, 1 warning
+    Info: Peak virtual memory: 4629 megabytes
+    Info: Processing ended: Mon Mar 21 00:08:44 2022
+    Info: Elapsed time: 00:00:23
     Info: Total CPU time (on all processors): 00:00:04
 
 

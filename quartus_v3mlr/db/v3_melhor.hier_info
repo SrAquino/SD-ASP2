@@ -1,0 +1,41 @@
+|v3_melhor
+in1[0] => reg1[0].DATAIN
+in1[1] => reg1[1].DATAIN
+in2[0] => reg2[0].DATAIN
+in2[1] => reg2[1].DATAIN
+in3[0] => reg3[0].DATAIN
+in3[1] => reg3[1].DATAIN
+in4[0] => reg4[0].DATAIN
+in4[1] => reg4[1].DATAIN
+reset => regout[0].ACLR
+reset => regout[1].ACLR
+reset => regB[0].ACLR
+reset => regB[1].ACLR
+reset => regA[0].ACLR
+reset => regA[1].ACLR
+reset => reg4[0].ACLR
+reset => reg4[1].ACLR
+reset => reg3[0].ACLR
+reset => reg3[1].ACLR
+reset => reg2[0].ACLR
+reset => reg2[1].ACLR
+reset => reg1[0].ACLR
+reset => reg1[1].ACLR
+clock => regout[0].CLK
+clock => regout[1].CLK
+clock => regB[0].CLK
+clock => regB[1].CLK
+clock => regA[0].CLK
+clock => regA[1].CLK
+clock => reg4[0].CLK
+clock => reg4[1].CLK
+clock => reg3[0].CLK
+clock => reg3[1].CLK
+clock => reg2[0].CLK
+clock => reg2[1].CLK
+clock => reg1[0].CLK
+clock => reg1[1].CLK
+result[0] <= regout[0].DB_MAX_OUTPUT_PORT_TYPE
+result[1] <= regout[1].DB_MAX_OUTPUT_PORT_TYPE
+
+

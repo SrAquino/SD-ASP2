@@ -1,13 +1,13 @@
-Fitter Status : Successful - Fri Mar 11 14:43:30 2022
-Quartus II 32-bit Version : 13.0.0 Build 156 04/24/2013 SJ Web Edition
+Fitter Status : Successful - Mon Mar 21 00:09:27 2022
+Quartus II 64-Bit Version : 13.0.0 Build 156 04/24/2013 SJ Web Edition
 Revision Name : asp2
 Top-level Entity Name : asp2
 Family : Cyclone III
 Device : EP3C5F256C6
 Timing Models : Final
-Total logic elements : 11 / 5,136 ( < 1 % )
+Total logic elements : 10 / 5,136 ( < 1 % )
     Total combinational functions : 4 / 5,136 ( < 1 % )
-    Dedicated logic registers : 10 / 5,136 ( < 1 % )
+    Dedicated logic registers : 8 / 5,136 ( < 1 % )
 Total registers : 10
 Total pins : 12 / 183 ( 7 % )
 Total virtual pins : 0

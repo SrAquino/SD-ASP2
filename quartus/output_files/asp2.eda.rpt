@@ -1,6 +1,6 @@
 EDA Netlist Writer report for asp2
-Fri Mar 11 14:43:49 2022
-Quartus II 32-bit Version 13.0.0 Build 156 04/24/2013 SJ Web Edition
+Mon Mar 21 00:10:03 2022
+Quartus II 64-Bit Version 13.0.0 Build 156 04/24/2013 SJ Web Edition
 
 
 ---------------------
@@ -36,7 +36,7 @@ applicable agreement for further details.
 +-------------------------------------------------------------------+
 ; EDA Netlist Writer Summary                                        ;
 +---------------------------+---------------------------------------+
-; EDA Netlist Writer Status ; Successful - Fri Mar 11 14:43:49 2022 ;
+; EDA Netlist Writer Status ; Successful - Mon Mar 21 00:10:03 2022 ;
 ; Revision Name             ; asp2                                  ;
 ; Top-level Entity Name     ; asp2                                  ;
 ; Family                    ; Cyclone III                           ;
@@ -86,9 +86,9 @@ applicable agreement for further details.
 ; EDA Netlist Writer Messages ;
 +-----------------------------+
 Info: *******************************************************************
-Info: Running Quartus II 32-bit EDA Netlist Writer
+Info: Running Quartus II 64-Bit EDA Netlist Writer
     Info: Version 13.0.0 Build 156 04/24/2013 SJ Web Edition
-    Info: Processing started: Fri Mar 11 14:43:48 2022
+    Info: Processing started: Mon Mar 21 00:10:02 2022
 Info: Command: quartus_eda --read_settings_files=off --write_settings_files=off asp2 -c asp2
 Info (204019): Generated file asp2_6_1200mv_85c_slow.vho in folder "C:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/quartus/simulation/modelsim/" for EDA simulation tool
 Info (204019): Generated file asp2_6_1200mv_0c_slow.vho in folder "C:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/quartus/simulation/modelsim/" for EDA simulation tool
@@ -98,9 +98,9 @@ Info (204019): Generated file asp2_6_1200mv_85c_vhd_slow.sdo in folder "C:/Users
 Info (204019): Generated file asp2_6_1200mv_0c_vhd_slow.sdo in folder "C:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/quartus/simulation/modelsim/" for EDA simulation tool
 Info (204019): Generated file asp2_min_1200mv_0c_vhd_fast.sdo in folder "C:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/quartus/simulation/modelsim/" for EDA simulation tool
 Info (204019): Generated file asp2_vhd.sdo in folder "C:/Users/dougl/Documents/Cursos/EC - Unipampa/Sistemas digitais/ASP2/quartus/simulation/modelsim/" for EDA simulation tool
-Info: Quartus II 32-bit EDA Netlist Writer was successful. 0 errors, 0 warnings
-    Info: Peak virtual memory: 326 megabytes
-    Info: Processing ended: Fri Mar 11 14:43:49 2022
+Info: Quartus II 64-Bit EDA Netlist Writer was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4503 megabytes
+    Info: Processing ended: Mon Mar 21 00:10:03 2022
     Info: Elapsed time: 00:00:01
     Info: Total CPU time (on all processors): 00:00:01
 
